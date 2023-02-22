@@ -1,0 +1,38 @@
+.box{
+    background-color: white;
+    padding: 20px;
+    width: 300px;
+    margin-right: 30px;
+    border-radius: 10px;
+    margin-bottom: 250px;
+    margin-left: 30px;
+
+}
+.bg{
+    background-color: black;
+    padding: 20px;
+    width: 100vw;
+    height: 100vh;
+    margin: 20px;
+    text-align: left;
+}
+.line2{
+    color: gold;
+}
+.line3{
+    color: cadetblue;
+}
+.button{
+    padding: 12px;
+    
+    color: cadetblue;
+    width: 200px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color:aquamarine;
+    margin-bottom:110px;
+}
+.flex-container {
+    display: flex;
+    flex-direction: row;
+  }
